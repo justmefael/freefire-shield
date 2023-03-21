@@ -1,3 +1,3 @@
 # freefire-shield
 
-I created a C# version of Alliance Shield, which was originally done in .py, to demonstrate how this "shield" really sucks
+I have created a C# version of the Alliance Shield, which was originally made in .py, to demonstrate how ineffective this "shield" truly is.
